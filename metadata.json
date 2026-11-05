@@ -1,0 +1,8 @@
+{
+  "name": "Cylar Taylor | Official Site",
+  "description": "Official artist website for Cylar Taylor featuring music, videos, and updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
